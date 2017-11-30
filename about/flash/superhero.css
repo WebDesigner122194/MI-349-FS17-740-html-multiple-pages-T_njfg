@@ -1,0 +1,15 @@
+html {
+  font-family: Gotham, Arial;
+}
+
+body {
+  background: #eee;
+}
+
+a {
+  font-weight: bold;
+}
+
+a:hover {
+  color: #800;
+}
